@@ -251,6 +251,8 @@ With further improvements, this project can be transformed into a complete onlin
 
 Developed By: Megha Sharma
 
+GitHub Profile: https://github.com/techmeghasharma
+
 🐍 Programming Language: Python
 
 🎓 Project Type: Educational / Academic Project
