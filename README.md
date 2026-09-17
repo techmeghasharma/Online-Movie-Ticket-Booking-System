@@ -1,5 +1,5 @@
 
-#🎬 Online Movie Ticket Booking System
+🎬 Online Movie Ticket Booking System
 
 «🎟️ A simple Python-based console application for booking movie tickets easily and efficiently.»
 
