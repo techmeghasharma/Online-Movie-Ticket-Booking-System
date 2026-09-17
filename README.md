@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Project Type](https://img.shields.io/badge/Project-Console%20Application-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
+
 🎬 Online Movie Ticket Booking System
 
 «🎟️ A simple Python-based console application for booking movie tickets easily and efficiently.»
