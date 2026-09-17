@@ -249,7 +249,7 @@ With further improvements, this project can be transformed into a complete onlin
 
 👨‍💻 15. Author
 
-Developed By: Your Name
+Developed By: Megha Sharma
 
 🐍 Programming Language: Python
 
