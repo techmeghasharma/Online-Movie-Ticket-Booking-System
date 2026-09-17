@@ -118,7 +118,7 @@ Make sure Python 3.x is installed on your computer.
 
 Step 2️⃣: Clone the Repository
 
-git clone https://github.com/yourusername/Online-Movie-Ticket-Booking-System.git
+git clone https://github.com/techmeghasharma/Online-Movie-Ticket-Booking-System.git
 
 Step 3️⃣: Navigate to the Project Folder
 
